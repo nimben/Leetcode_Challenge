@@ -24,4 +24,12 @@ https://github.com/kamyu104/LeetCode-Solutions
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimben/Leetcode_Challenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nimben/Leetcode_Challenge/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nimben/Leetcode_Challenge/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
