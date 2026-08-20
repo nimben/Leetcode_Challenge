@@ -20,6 +20,7 @@ https://github.com/kamyu104/LeetCode-Solutions
 | [0066-plus-one](https://github.com/nimben/Leetcode_Challenge/tree/master/0066-plus-one) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimben/Leetcode_Challenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nimben/Leetcode_Challenge/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nimben/Leetcode_Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ https://github.com/kamyu104/LeetCode-Solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nimben/Leetcode_Challenge/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nimben/Leetcode_Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
