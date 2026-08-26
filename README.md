@@ -6,6 +6,7 @@ https://github.com/kamyu104/LeetCode-Solutions
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/nimben/Leetcode_Challenge/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimben/Leetcode_Challenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/nimben/Leetcode_Challenge/tree/master/2129-capitalize-the-title) |
 ## Math
@@ -24,6 +25,7 @@ https://github.com/kamyu104/LeetCode-Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/nimben/Leetcode_Challenge/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimben/Leetcode_Challenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
