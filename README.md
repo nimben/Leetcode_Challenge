@@ -23,6 +23,7 @@ https://github.com/kamyu104/LeetCode-Solutions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nimben/Leetcode_Challenge/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/nimben/Leetcode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/nimben/Leetcode_Challenge/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nimben/Leetcode_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nimben/Leetcode_Challenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -59,4 +60,8 @@ https://github.com/kamyu104/LeetCode-Solutions
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/nimben/Leetcode_Challenge/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nimben/Leetcode_Challenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
